@@ -1,0 +1,4 @@
+
+config MTK_EPL257X
+	bool "epl257x for MediaTek package"
+	default n

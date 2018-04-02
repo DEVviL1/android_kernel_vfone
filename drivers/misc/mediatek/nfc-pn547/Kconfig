@@ -1,0 +1,5 @@
+config NFC_PN547
+	tristate "NXP NFC driver"
+	default n
+	---help---
+	  Say Y here for supporting  NXP NFC PN547 /PN548.

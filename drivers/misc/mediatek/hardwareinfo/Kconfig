@@ -1,0 +1,6 @@
+
+config HW_INFO
+	bool "HW_INFO support "
+	default n
+	help
+	  MTK HW_INFO for mini etc.

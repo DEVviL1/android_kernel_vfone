@@ -1,0 +1,5 @@
+config TCT_HW_VERNO
+       bool "TCT_HW_VERNO support "	
+       default n	
+       help	
+         TCT HARDWARD VERSION INFO.
